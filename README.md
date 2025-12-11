@@ -9,9 +9,7 @@ My goal is to move into a **security engineering** role, with a strong interest 
 
 ---
 
-## 🔧 Tools
-
-### **Programming & Dev Tools**
+## 🔧 **Programming & Dev Tools**
 <div>
     <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=Java&logoColor=white" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -19,17 +17,8 @@ My goal is to move into a **security engineering** role, with a strong interest 
     <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
----
-
-## 📜 Certifications 
-<div>
-<img src="https://img.shields.io/badge/-Security_Foundations_(Academic)-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCNA_(1_%26_2_Completed)-1F6FEB?&style=for-the-badge&logo=Cisco&logoColor=white" />
-</div>
-
----
 
 ## 📂 Projects
-- **Network Traffic Analyzer** – Java/Pcap4J packet capture with GUI visualization  
+- **Packet Sniffer Application** – Java/Pcap4J packet capture with GUI visualization  
 - **Interactive Whiteboard** – Real-time collaborative web app (React/Node.js/Firebase)  
 - **Simulated Enterprise Network** – Virtualized enterprise environment with Windows 10 Hosts, and Windows Server 2016 (Active Directory, DHCP, Group Policy)
