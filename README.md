@@ -24,7 +24,6 @@ My goal is to move into a **security engineering** role, with a strong interest 
 
 ## 🔧 Tools
 
-
 ### **Programming & Dev Tools**
 <div>
     <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=Java&logoColor=white" />
@@ -34,11 +33,10 @@ My goal is to move into a **security engineering** role, with a strong interest 
 
 ---
 
-## 📜 Certifications (Completed or In Progress)
+## 📜 Certifications 
 <div>
 <img src="https://img.shields.io/badge/-Security_Foundations_(Academic)-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCNA_(1_%26_2_Completed)-1F6FEB?&style=for-the-badge&logo=Cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCNA_3_In_Progress-0B5FFF?&style=for-the-badge&logo=Cisco&logoColor=white" />
 </div>
 
 ---
