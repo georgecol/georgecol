@@ -8,8 +8,8 @@ I am interested in low-level programming, web development, and home labbing (wit
 Offline, I like to run and read non-fiction (history, science, and biographies). 
 
 ## 🔨 Currently Working On
+- My proxmox home server (more details to come soon on my website)
 - My personal website
-- My obsidian notetaking workflow (replacing Microsoft Word)
 
 ## 📂 Projects
 - **Interactive Whiteboard** – Real-time collaborative web app (React/Node.js/Firebase)  
