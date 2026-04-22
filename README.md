@@ -7,11 +7,3 @@ I have always been obsessed with computers, from the first time playing Minecraf
 I am interested in low-level programming, web development, and home labbing (with future plans to build one). 
 Offline, I like to run and read non-fiction (history, science, and biographies). 
 
-## 🔨 Currently Working On
-- My proxmox home server (more details to come soon on my website)
-- My personal website
-
-## 📂 Projects
-- **Interactive Whiteboard** – Real-time collaborative web app (React/Node.js/Firebase)  
-- **Packet Sniffer Application** – Java/Pcap4J packet capture with GUI visualization  
-- **Simulated Enterprise Network** – Virtualized enterprise environment with Windows 10 hosts and Windows Server 2016 (Active Directory, DHCP, Group Policy)
